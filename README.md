@@ -7,7 +7,7 @@ Welcome to my GitHub! I'm a senior Computer Science major at the University of N
 - 💼 **Academic Coach & Liaison** at the UNT Learning Center, collaborating with students and faculty
 - 💡 Passionate about **full-stack development, algorithm optimization, and systems programming**
 - 🏆 Former **team lead** on a web development project that involved designing and implementing database-driven features
-- 🧑‍🏫 Experienced in **mentoring and presenting technical workshops**
+- 🧑‍🏫 Experienced in **mentoring and presenting workshops**
 - 🔬 Worked on a **commissioned scientific computing project** to visualize carbon molecules and pathways
 
 ## 🚀 Skills & Technologies
@@ -18,10 +18,10 @@ Welcome to my GitHub! I'm a senior Computer Science major at the University of N
 - 🏗️ ARMv8, LEGv8 Assembly
 
 ### **Frameworks & Tools:**
-- 🌎 **Web Development:** MySQL, D3.js, Pencil Code
+- 🌎 **Web Development:** PostgreSQL, D3.js, Pencil Code
 - 🔄 **Version Control:** Git, GitHub
 - 📊 **Data Visualization:** D3.js, CSV Data Parsing
-- 🏗️ **Software Engineering:** Agile, Test Planning, Nonfunctional Requirement Specification
+- 🏗️ **Software Engineering:** Agile, Test Planning, Nonfunctional/Functional Requirement Specification
 
 ## 🏆 Featured Projects
 ### **🌱 Mean Green Reviews** (Web Application)
