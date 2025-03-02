@@ -1,4 +1,4 @@
-# Hi, I'm Gloria Hernández 👋
+# Howdy, I'm Gloria Hernández 👋
 
 Welcome to my GitHub! I'm a senior Computer Science major at the University of North Texas, passionate about software development, web technologies, and problem-solving. I have experience working on diverse projects ranging from web applications to scientific computing solutions.
 
